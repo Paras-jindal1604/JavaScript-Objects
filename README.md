@@ -6,14 +6,14 @@ This repository is dedicated to mastering how **objects** work in JavaScript —
 
 ## 📌 Table of Contents
 
-1. [Ways to Create Objects](#1-ways-to-create-objects)
-2. [Useful Object Methods](#2-useful-object-methods)
-3. [Spread Operator vs. Object.assign()](#3-spread-operator-vs-objectassign)
-4. [Shallow vs Deep Copy](#4-shallow-vs-deep-copy)
-5. [Structured Clone Method](#5-structured-clone-method)
-6. [Nested Objects and Accessing Keys](#6-nested-objects-and-accessing-keys)
-7. [Object Destructuring](#7-object-destructuring)
-8. [Prototype Chaining](#8-prototype-chaining)
+1. [Ways to Create Objects]
+2. [Useful Object Methods]
+3. [Spread Operator vs. Object.assign()]
+4. [Shallow vs Deep Copy]
+5. [Structured Clone Method]
+6. [Nested Objects and Accessing Keys]
+7. [Object Destructuring]
+8. [Prototype Chaining]
 
 ---
 
