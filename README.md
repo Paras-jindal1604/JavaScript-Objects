@@ -119,7 +119,7 @@ Understanding this concept is essential for grasping inheritance in JavaScript.
 
 ## 🧑‍💻 Author
 
-Made with ❤️ by Paras Jindal (https://github.com/Paras-jindal1604)
+Made with ❤️ by [Paras Jindal](https://github.com/Paras-jindal1604)
 
 ---
 
